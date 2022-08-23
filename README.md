@@ -10,5 +10,3 @@ this project is meant to classifying the catorgorize of the fetus in term of som
 4. Matplotlib
 5. Seaborn
 
-
-https://mybinder.org/v2/gh/Zakihran13/Fetal-Classification/711515ba9c4829e0c12dcbf7a10b5eb86311f63c?filepath=classification.ipynb
